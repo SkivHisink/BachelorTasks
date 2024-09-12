@@ -1,0 +1,45 @@
+/*http://opk.afti.ru/tasks/oborachivanie-massiva
+Условие:
+*Реализовать функцию, убирающую пробельные символы в начале и конце переданной строки.
+*Не допускается использование дополнительных строк (дополнительной памяти).
+*Для определения пробельности символов использовать функцию isspace() из ctype.h.
+///void strtrim(char *string) 
+///{
+///   
+///}
+//*Пример использования :
+//*	char buf[] = " abc ";
+//*	printf("<%s>\n", buf); // < abc >
+//*	strtrim(buf);
+//*	printf("<%s>\n", buf); // <abc>
+*/
+#include <stdio.h>
+#include <malloc.h>
+#include <ctype.h>
+
+void strtrim(char* string);
+
+int main()
+{
+	char a[6] = " abc ";
+	strtrim(a);
+	return 0;
+}
+
+void strtrim(char* string)
+{
+	int counter = 0;
+	while (string[counter] != '\0') {
+		counter++;
+	}
+	if (isspace(string[0])) {
+		for (int i = 0; i < counter; i++) {
+			string[i] = string[i + 1];
+		}
+	}
+	if (isspace(string[counter - 2]))
+	{
+		string[counter - 2] = '\0';
+	}
+	printf("%s", string);
+}
