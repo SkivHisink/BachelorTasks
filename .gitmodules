@@ -28,3 +28,18 @@
 [submodule "OOP/Comics"]
 	path = OOP/Comics
 	url = https://github.com/SkivHisink/Comics
+[submodule "BasicsOfOperatingSystem"]
+	path = BasicsOfOperatingSystem
+	url = https://github.com/SkivHisink/OperationalSystem
+[submodule "OOP/PatternFactoryC"]
+	path = OOP/PatternFactoryC
+	url = https://github.com/SkivHisink/Pattrern-Factory-C/
+[submodule "3D/QTCube"]
+	path = 3D/QTCube
+	url = https://github.com/SkivHisink/QT_Cube
+[submodule "3D/OpenGL"]
+	path = 3D/OpenGL
+	url = https://github.com/SkivHisink/OpenGLProg
+[submodule "OPK/Snake"]
+	path = OPK/Snake
+	url = https://github.com/SkivHisink/Snake
