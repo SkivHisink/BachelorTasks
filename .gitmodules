@@ -1,6 +1,3 @@
-[submodule "OOP/QuickSort"]
-	path = OOP/QuickSort
-	url = https://github.com/SkivHisink/QuickSort
 [submodule "OOP/MiniFlow"]
 	path = OOP/MiniFlow
 	url = https://github.com/SkivHisink/MiniFlow
@@ -28,3 +25,6 @@
 [submodule "OOP/ArithmeticGame"]
 	path = OOP/ArithmeticGame
 	url = https://github.com/SkivHisink/Arithmetic-Game-
+[submodule "OOP/QuickSort"]
+	path = OOP/QuickSort
+	url = https://github.com/SkivHisink/QuickSort
