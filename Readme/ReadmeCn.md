@@ -1,6 +1,6 @@
 # 🎓 BachelorTasks
 
-[🇷🇺 Русский](https://github.com/SkivHisink/BachelorTasks/) | [🇬🇧 English](https://github.com/SkivHisink/BachelorTasks/blob/master/Readme/ReadmeEn.md) | **[🇨🇳 中文](https://github.com/SkivHisink/BachelorTasks/blob/master/Readme/ReadmeCn.md)** | [🇩🇪 Deutsch](https://github.com/SkivHisink/BachelorTasks/blob/master/Readme/ReadmeGr.md) | [🇫🇷 Français]https://github.com/SkivHisink/BachelorTasks/blob/master/Readme/ReadmeFr.md) | [🇪🇸 Español](https://github.com/SkivHisink/BachelorTasks/blob/master/Readme/ReadmeEs.md)
+[🇷🇺 Русский](https://github.com/SkivHisink/BachelorTasks/) | [🇬🇧 English](https://github.com/SkivHisink/BachelorTasks/blob/master/Readme/ReadmeEn.md) | **[🇨🇳 中文](https://github.com/SkivHisink/BachelorTasks/blob/master/Readme/ReadmeCn.md)** | [🇩🇪 Deutsch](https://github.com/SkivHisink/BachelorTasks/blob/master/Readme/ReadmeGr.md) | [🇫🇷 Français](https://github.com/SkivHisink/BachelorTasks/blob/master/Readme/ReadmeFr.md) | [🇪🇸 Español](https://github.com/SkivHisink/BachelorTasks/blob/master/Readme/ReadmeEs.md)
 
 欢迎来到 **BachelorTasks** 仓库，其中包含我在学士学习期间完成的任务的解决方案。
 
