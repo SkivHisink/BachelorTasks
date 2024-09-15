@@ -1,0 +1,30 @@
+[submodule "OOP/QuickSort"]
+	path = OOP/QuickSort
+	url = https://github.com/SkivHisink/QuickSort
+[submodule "OOP/MiniFlow"]
+	path = OOP/MiniFlow
+	url = https://github.com/SkivHisink/MiniFlow
+[submodule "OOP/ObjectPool"]
+	path = OOP/ObjectPool
+	url = https://github.com/SkivHisink/ObjectPool
+[submodule "OOP/NumericalMethods"]
+	path = OOP/NumericalMethods
+	url = https://github.com/SkivHisink/Numerical-Methods
+[submodule "OOP/MergingFwdIterator"]
+	path = OOP/MergingFwdIterator
+	url = https://github.com/SkivHisink/MergingFwdIterator
+[submodule "OOP/EncryptionModes"]
+	path = OOP/EncryptionModes
+	url = https://github.com/SkivHisink/EncryptionModes
+[submodule "OOP/Comics"]
+	path = OOP/Comics
+	url = https://github.com/SkivHisink/Comics
+[submodule "OOP/ParallelQuickSort"]
+	path = OOP/ParallelQuickSort
+	url = https://github.com/SkivHisink/ParallelQuickSort
+[submodule "OOP/MultiThreadingRecording"]
+	path = OOP/MultiThreadingRecording
+	url = https://github.com/SkivHisink/MultiThreadingRecording
+[submodule "OOP/ArithmeticGame"]
+	path = OOP/ArithmeticGame
+	url = https://github.com/SkivHisink/Arithmetic-Game-
