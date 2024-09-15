@@ -43,3 +43,24 @@
 [submodule "OPK/Snake"]
 	path = OPK/Snake
 	url = https://github.com/SkivHisink/Snake
+[submodule "BasicsOfComputationalPhysics"]
+	path = BasicsOfComputationalPhysics
+	url = https://github.com/SkivHisink/BasicsOfComputationalPhysics
+[submodule "RealScience/CombustionAndFireModeling"]
+	path = RealScience/CombustionAndFireModeling
+	url = https://github.com/SkivHisink/HydrodynamicModeling
+[submodule "DeepLearning"]
+	path = DeepLearning
+	url = https://github.com/SkivHisink/SoDeepLearning
+[submodule "BasicsofProgMicrocontrollers"]
+	path = BasicsofProgMicrocontrollers
+	url = https://github.com/SkivHisink/Microcontrollers_STM
+[submodule "DataProcessingMethodsInScience"]
+	path = DataProcessingMethodsInScience
+	url = https://github.com/SkivHisink/DPMiSR
+[submodule "RealScience/MolecularDynamicModel"]
+	path = RealScience/MolecularDynamicModel
+	url = https://github.com/SkivHisink/MolecularDynamicsCpp
+[submodule "MachineLearning"]
+	path = MachineLearning
+	url = https://github.com/SkivHisink/MachineLearning_Practice
