@@ -1,6 +1,6 @@
 # 🎓 BachelorTasks
 
-[🇷🇺 Русский](https://github.com/SkivHisink/BachelorTasks/) | [🇬🇧 English](https://github.com/SkivHisink/BachelorTasks/blob/master/Readme/ReadmeEN.md) | [🇨🇳 中文](https://github.com/SkivHisink/BachelorTasks/blob/master/Readme/ReadmeCn.md) | [🇩🇪 Deutsch](https://github.com/SkivHisink/BachelorTasks/blob/master/Readme/ReadmeGr.md) | **[🇫🇷 Français](https://github.com/SkivHisink/BachelorTasks/blob/master/Readme/ReadmeFr.md)** | [🇪🇸 Español](https://github.com/SkivHisink/BachelorTasks/blob/master/Readme/ReadmeEs.md)
+[🇷🇺 Русский](https://github.com/SkivHisink/BachelorTasks/) | [🇬🇧 English](https://github.com/SkivHisink/BachelorTasks/blob/master/Readme/ReadmeEn.md) | [🇨🇳 中文](https://github.com/SkivHisink/BachelorTasks/blob/master/Readme/ReadmeCn.md) | [🇩🇪 Deutsch](https://github.com/SkivHisink/BachelorTasks/blob/master/Readme/ReadmeGr.md) | **[🇫🇷 Français](https://github.com/SkivHisink/BachelorTasks/blob/master/Readme/ReadmeFr.md)** | [🇪🇸 Español](https://github.com/SkivHisink/BachelorTasks/blob/master/Readme/ReadmeEs.md)
 
 Bienvenue dans le dépôt **BachelorTasks**, qui contient mes solutions aux tâches réalisées durant mes études de licence.
 
