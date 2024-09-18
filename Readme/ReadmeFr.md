@@ -5,17 +5,17 @@
 Bienvenue dans le dépôt **BachelorTasks**, qui contient mes solutions aux tâches réalisées durant mes études de licence.
 
 ## 📑 Contenu
-- [3D](#3d)
-- [BasicsOfComputationalPhysics](#basicsofcomputationalphysics)
-- [BasicsOfOperatingSystem](#basicsofoperatingsystem)
-- [BasicsofProgMicrocontrollers](#basicsofprogmicrocontrollers)
-- [DataProcessingMethodsInScience](#dataprocessingmethodsinscience)
-- [DeepLearning](#deeplearning)
-- [MachineLearning](#machinelearning)
-- [OOP (Programmation orientée objet)](#oop-programmation-orientée-objet)
-- [OPK (Fondamentaux de l'ingénierie logicielle)](#opk-fondamentaux-de-lingénierie-logicielle)
-- [RealScience](#realscience)
-- [Avertissement](#avertissement)
+- [3D](#%EF%B8%8F-3d)
+- [BasicsOfComputationalPhysics](#%EF%B8%8F-basicsofcomputationalphysics)
+- [BasicsOfOperatingSystem](#%EF%B8%8F-basicsofoperatingsystem)
+- [BasicsofProgMicrocontrollers](#-basicsofprogmicrocontrollers)
+- [DataProcessingMethodsInScience](#-dataprocessingmethodsinscience)
+- [DeepLearning](#-deeplearning)
+- [MachineLearning](#-machinelearning)
+- [OOP (Programmation orientée objet)](#%EF%B8%8F-oop-programmation-orientée-objet)
+- [OPK (Fondamentaux de l'ingénierie logicielle)](#-opk-fondamentaux-de-lingénierie-logicielle)
+- [RealScience](#-realscience)
+- [Avertissement](#%EF%B8%8F-avertissement)
 
 ## 📂 Structure du dépôt
 

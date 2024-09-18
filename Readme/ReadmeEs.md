@@ -5,17 +5,17 @@
 Bienvenidos al repositorio **BachelorTasks**, donde se recopilan mis soluciones a las tareas realizadas durante mis estudios de licenciatura.
 
 ## 📑 Contenido
-- [3D](#3d)
-- [BasicsOfComputationalPhysics](#basicsofcomputationalphysics)
-- [BasicsOfOperatingSystem](#basicsofoperatingsystem)
-- [BasicsofProgMicrocontrollers](#basicsofprogmicrocontrollers)
-- [DataProcessingMethodsInScience](#dataprocessingmethodsinscience)
-- [DeepLearning](#deeplearning)
-- [MachineLearning](#machinelearning)
-- [OOP (Programación Orientada a Objetos)](#oop-programación-orientada-a-objetos)
-- [OPK (Fundamentos de Ingeniería de Software)](#opk-fundamentos-de-ingeniería-de-software)
-- [RealScience](#realscience)
-- [Descargo de responsabilidad](#descargo-de-responsabilidad)
+- [3D](#%EF%B8%8F-3d)
+- [BasicsOfComputationalPhysics](#%EF%B8%8F-basicsofcomputationalphysics)
+- [BasicsOfOperatingSystem](#%EF%B8%8F-basicsofoperatingsystem)
+- [BasicsofProgMicrocontrollers](#-basicsofprogmicrocontrollers)
+- [DataProcessingMethodsInScience](#-dataprocessingmethodsinscience)
+- [DeepLearning](#-deeplearning)
+- [MachineLearning](#-machinelearning)
+- [OOP (Programación Orientada a Objetos)](#%EF%B8%8F-oop-programación-orientada-a-objetos)
+- [OPK (Fundamentos de Ingeniería de Software)](#-opk-fundamentos-de-ingeniería-de-software)
+- [RealScience](#-realscience)
+- [Descargo de responsabilidad](#%EF%B8%8F-descargo-de-responsabilidad)
 
 ## 📂 Estructura del repositorio
 
