@@ -5,17 +5,17 @@
 Welcome to the **BachelorTasks** repository, which contains my solutions to tasks completed during my bachelor's studies.
 
 ## 📑 Table of Contents
-- [3D](#3d)
-- [BasicsOfComputationalPhysics](#basicsofcomputationalphysics)
-- [BasicsOfOperatingSystem](#basicsofoperatingsystem)
-- [BasicsofProgMicrocontrollers](#basicsofprogmicrocontrollers)
-- [DataProcessingMethodsInScience](#dataprocessingmethodsinscience)
-- [DeepLearning](#deeplearning)
-- [MachineLearning](#machinelearning)
-- [OOP (Object-Oriented Programming)](#oop-object-oriented-programming)
-- [OPK (Software Engineering Fundamentals)](#opk-software-engineering-fundamentals)
-- [RealScience](#realscience)
-- [Disclaimer](#disclaimer)
+- [3D](#%EF%B8%8F-3d)
+- [BasicsOfComputationalPhysics](#%EF%B8%8F-basicsofcomputationalphysics)
+- [BasicsOfOperatingSystem](#%EF%B8%8F-basicsofoperatingsystem)
+- [BasicsofProgMicrocontrollers](#-basicsofprogmicrocontrollers)
+- [DataProcessingMethodsInScience](#-dataprocessingmethodsinscience)
+- [DeepLearning](#-deeplearning)
+- [MachineLearning](#-machinelearning)
+- [OOP (Object-Oriented Programming)](#%EF%B8%8F-oop-object-oriented-programming)
+- [OPK (Software Engineering Fundamentals)](#-opk-software-engineering-fundamentals)
+- [RealScience](#-realscience)
+- [Disclaimer](#%EF%B8%8F-disclaimer)
 
 ## 📂 Repository Structure
 

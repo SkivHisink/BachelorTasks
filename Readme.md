@@ -5,17 +5,17 @@
 Добро пожаловать в репозиторий **BachelorTasks**, где собраны мои решения задач, выполненные во время обучения на бакалавриате.
 
 ## 📑 Содержание
-- [3D](https://github.com/SkivHisink/BachelorTasks?tab=readme-ov-file#%F0%9F%96%A5_3D:~:text=%F0%9F%93%82%20%D0%A1%D1%82%D1%80%D1%83%D0%BA%D1%82%D1%83%D1%80%D0%B0%20%D1%80%D0%B5%D0%BF%D0%BE%D0%B7%D0%B8%D1%82%D0%BE%D1%80%D0%B8%D1%8F-,%F0%9F%96%A5%EF%B8%8F%203D,-%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D1%8B%20%D0%B8%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%87%D0%B8)
-- [BasicsOfComputationalPhysics](#basicsofcomputationalphysics)
-- [BasicsOfOperatingSystem](#basicsofoperatingsystem)
-- [BasicsofProgMicrocontrollers](#basicsofprogmicrocontrollers)
-- [DataProcessingMethodsInScience](#dataprocessingmethodsinscience)
-- [DeepLearning](#deeplearning)
-- [MachineLearning](#machinelearning)
-- [OOP (Объектно-ориентированное программирование)](#oop-объектно-ориентированное-программирование)
-- [OPK (Основы программного конструирования)](#opk-основы-программного-конструирования)
-- [RealScience](#realscience)
-- [Дисклеймер](#дисклеймер)
+- [3D](#%EF%B8%8F-3d)
+- [BasicsOfComputationalPhysics](#%EF%B8%8F-basicsofcomputationalphysics)
+- [BasicsOfOperatingSystem](#%EF%B8%8F-basicsofoperatingsystem)
+- [BasicsofProgMicrocontrollers](#-basicsofprogmicrocontrollers)
+- [DataProcessingMethodsInScience](#-dataprocessingmethodsinscience)
+- [DeepLearning](#-deeplearning)
+- [MachineLearning](#-machinelearning)
+- [OOP (Объектно-ориентированное программирование)](#%EF%B8%8F-oop-объектно-ориентированное-программирование)
+- [OPK (Основы программного конструирования)](#-opk-основы-программного-конструирования)
+- [RealScience](#-realscience)
+- [Дисклеймер](#%EF%B8%8F-дисклеймер)
 
 ## 📂 Структура репозитория
 

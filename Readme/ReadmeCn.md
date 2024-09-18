@@ -5,17 +5,17 @@
 欢迎来到 **BachelorTasks** 仓库，其中包含我在学士学习期间完成的任务的解决方案。
 
 ## 📑 目录
-- [3D](#3d)
-- [计算物理基础 (BasicsOfComputationalPhysics)](#计算物理基础-basicsofcomputationalphysics)
-- [操作系统基础 (BasicsOfOperatingSystem)](#操作系统基础-basicsofoperatingsystem)
-- [微控制器编程基础 (BasicsofProgMicrocontrollers)](#微控制器编程基础-basicsofprogmicrocontrollers)
-- [科学中的数据处理方法 (DataProcessingMethodsInScience)](#科学中的数据处理方法-dataprocessingmethodsinscience)
-- [深度学习 (DeepLearning)](#深度学习-deeplearning)
-- [机器学习 (MachineLearning)](#机器学习-machinelearning)
-- [面向对象编程 (OOP)](#面向对象编程-oop)
-- [软件工程基础 (OPK)](#软件工程基础-opk)
-- [科学研究 (RealScience)](#科学研究-realscience)
-- [免责声明](#免责声明)
+- [3D](#%EF%B8%8F-3d)
+- [计算物理基础 (BasicsOfComputationalPhysics)](#%EF%B8%8F-计算物理基础-basicsofcomputationalphysics)
+- [操作系统基础 (BasicsOfOperatingSystem)](#%EF%B8%8F-操作系统基础-basicsofoperatingsystem)
+- [微控制器编程基础 (BasicsofProgMicrocontrollers)](#-微控制器编程基础-basicsofprogmicrocontrollers)
+- [科学中的数据处理方法 (DataProcessingMethodsInScience)](#-#科学中的数据处理方法-dataprocessingmethodsinscience)
+- [深度学习 (DeepLearning)](#-深度学习-deeplearning)
+- [机器学习 (MachineLearning)](#-机器学习-machinelearning)
+- [面向对象编程 (OOP)](#%EF%B8%8F-面向对象编程-oop)
+- [软件工程基础 (OPK)](#-软件工程基础-opk)
+- [科学研究 (RealScience)](#-科学研究-realscience)
+- [免责声明](#%EF%B8%8F-免责声明)
 
 ## 📂 仓库结构
 
